@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using NUnit.Framework;
 
-namespace Sergsm.NC
+namespace Sergsm.NC.Test
 {
     [TestFixture]
     public class DrillTest
