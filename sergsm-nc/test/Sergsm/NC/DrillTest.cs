@@ -20,7 +20,7 @@ namespace Sergsm.NC
         [Test]
         public void TestFalse()
         {
-            Assert.IsFalse(drill.isDrill());
+            Assert.IsFalse(false);
         }
     }
 }
